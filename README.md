@@ -32,8 +32,8 @@ python3 mathGr_friverr.py
 
 ✦ Preview
 
-![Main Menu](Screenshots/)
-![Code Structure](Screenshots/)
+![Main Menu](Screenshots/MathGrHauptmenu)
+![Code Structure](Screenshots/MathGrCodeHauptmenu)
 
 ✦ License:
 
