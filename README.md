@@ -42,6 +42,10 @@ B.E.G.-System Basiswerkzeug Lizenz / B.E.G.-System Core Tool License
 -No redistribution of the source code itself
 -See LICENSE file for full text
 
+News and Information:
+If you want to get news about my Project and like to be well informed you can suscribe to my Gumroad channel.
+All news and Procejt information will be first send and published there.
+link: https://babhuegoa.gumroad.com/subscribe
 ✦ Repository Purpose:
 
 This repository serves as public documentation and preview.
