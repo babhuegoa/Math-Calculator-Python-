@@ -1,5 +1,5 @@
 # Python Math Calculator — Python Mathematik-Rechner  
-**B.E.G.-System Core Tool (Source-Available Licensed Software)**
+** ©2025 BEG B.E.G.-System™ Core Tool (Source-Available Licensed Software)**
 
 A fully functional Python math calculator with a console menu interface.  
 Supports basic arithmetic operations and serves as a foundation for further expansion  
