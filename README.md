@@ -26,7 +26,7 @@ of the B.E.G.-System Core Tool License.
 
 You will need Python 3.11 or an Python 3.x Version to start the code via
 Python itself or double click on the codefile and if you have the right pytohn version it should start.
-Within Python you need to type: python3 mathUm_friverr.
+Within Python you need to type: python3 mathGr_friverr.
 
 ✦ Preview
 
