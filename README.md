@@ -38,14 +38,14 @@ Within Python you need to type: python3 mathUm_friverr.
 This project is licensed under the
 B.E.G.-System Basiswerkzeug Lizenz / B.E.G.-System Core Tool License
 -Commercial use permitted
--Attribution required: “Based on the B.E.G. System by Emanuel Goas”
+-Attribution required: “Based on the B.E.G. System by B.E.G.”
 -No redistribution of the source code itself
 -See LICENSE file for full text
 
 News and Information:
 
 If you want to get news about my Project and like to be well informed you can suscribe to my Gumroad channel.
-All news and Procejt information will be first send and published there.
+All news and Project information will be first send and published there.
 link: https://babhuegoa.gumroad.com/subscribe
 
 ✦ Repository Purpose:
